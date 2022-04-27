@@ -1,3 +1,6 @@
+# F-string example, with title case modification
+# Also includes example for pre-3.6 Python versions
+
 first_name = "ada"
 last_name = "lovelace"
 
