@@ -1,4 +1,4 @@
-# Try It Yourself 3-6
+# Try It Yourself 3-6: More Guests
 # You have a bigger table now. Add three people to the original list of invitees.
 invitees = ['Captain Marvel', 'Tony Stark', 'Ant-Man']
 print(invitees)

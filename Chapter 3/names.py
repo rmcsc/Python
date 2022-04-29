@@ -1,4 +1,4 @@
-# Try It Yourself 3-1
+# Try It Yourself 3-1: Names
 # Store the names of a few friends in a list, then print their names.
 friends = ['Caribel', 'Mario', 'Carlos', 'Lianid', 'Carolina']
 

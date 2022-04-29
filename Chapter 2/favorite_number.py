@@ -1,4 +1,4 @@
-# Try It Yourself 2-9
+# Try It Yourself 2-9: Favorite Number
 # Use a variable to represent your favorite number
 
 favorite_number = 16

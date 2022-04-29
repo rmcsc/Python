@@ -1,4 +1,4 @@
-# Try It Yourself 3-11
+# Try It Yourself 3-11: Intentional Error
 # Making an index error on purpose, then correcting the error
 
 # This is the error:

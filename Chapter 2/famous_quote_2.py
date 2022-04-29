@@ -1,4 +1,4 @@
-# Try It Yourself 2-6
+# Try It Yourself 2-6: Famous Quote 2
 # Print a quote from a famous person and format it per the book's instructions.
 # This time, do it using variables.
 

@@ -1,4 +1,4 @@
-# Try It Yourself 2-3
+# Try It Yourself 2-3: Personal Message
 # Prints a personal message to a user
 # (Modified it so the separator isn't a space)
 

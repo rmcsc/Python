@@ -1,4 +1,4 @@
-# Try It Yourself 3-8
+# Try It Yourself 3-8: Seeing the World
 # Think of 5 places in the world you'd like to visit.
 # Store them in a list, making sure it's not in alphabetical order.
 places = ['Tokyo', 'San Francisco', 'Rome', 'Argentina', 'Germany']

@@ -1,4 +1,4 @@
-# Try It Yourself 3-7
+# Try It Yourself 3-7: Shrinking Guest List
 # Womp-womp. The dinner table won't arrive on time, so I only have space for two guests. Let's pop() the guests until two remain.
 invitees = ['Captain Marvel', 'Tony Stark', 'Ant-Man']
 print(invitees)

@@ -1,4 +1,4 @@
-# Try It Yourself 2-8
+# Try It Yourself 2-8: Number Eight
 # Write different operations that result in number 8.
 # Use addition, subtraction, multiplication, and division, each with their print() calls.
 

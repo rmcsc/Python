@@ -1,4 +1,4 @@
-# Try It Yourself 3-10
+# Try It Yourself 3-10: Every Function
 # Use all functions from this chapter to play around with a list. =)
 cities = ['humacao', 'guaynabo', 'isabela',
           'toa baja', 'quebradillas', 'ponce', 'naranjito']

@@ -1,4 +1,4 @@
-# Try It Yourself 2-11
+# Try It Yourself 2-11: Zen of Python
 # This asks me to "import this" and read through The Zen of Python:
 
 import this

@@ -1,4 +1,4 @@
-# Try It Yourself 2-7
+# Try It Yourself 2-7: Stripping Names
 # Store a name in a variable with whitespaces (space, \t, \n) in them.
 # Print it once with the whitespaces.
 # Then print it with the stripping functions: lstrip(), rstrip(), and strip().

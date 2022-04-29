@@ -1,4 +1,4 @@
-# Try It Yourself 3-2
+# Try It Yourself 3-2: Greetings
 # Create personalized greetings for your friends.
 friends = ['Caribel', 'Mario', 'Carlos', 'Lianid', 'Carolina']
 

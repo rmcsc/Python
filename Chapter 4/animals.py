@@ -1,4 +1,4 @@
-# Try It Yourself 4-2
+# Try It Yourself 4-2: Animals
 # Store three animals that have common characteristics in a list, then use a for loop to print out their names.
 # Modify the program to print a statement about each animal.
 # Add a line at the end stating what they have in common.

@@ -1,4 +1,4 @@
-# Try It Yourself 3-5
+# Try It Yourself 3-5: Changing Guest List
 # Make a list of people, living or deceased, you'd invite to dinner, then print a personalized invitation to them.
 invitees = ['Albert Einstein', 'Tony Stark', 'Ant-Man']
 print(invitees)
