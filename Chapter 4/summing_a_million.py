@@ -1,5 +1,6 @@
 # Try It Yourself 4-5: Summing a Million
-# Make a list of the numbers from one to one million, use min() and max() to make sure.
+# Make a list of the numbers from one to one million, use min()
+#   and max() to make sure.
 # Use sum() to see how quickly Python adds them.
 numbers = list(range(1, 1_000_000))
 
